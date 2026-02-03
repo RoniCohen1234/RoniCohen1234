@@ -5,7 +5,7 @@
 
 🧬 I'm a **Life Sciences graduate BSc** from the Hebrew University, with hands-on research and lab experience.
 
-🔬 I gained practical **lab experience** at <img src="...png" alt="Weizmann Institute of Science" height="18" style="vertical-align:middle; margin-right:6px;"/> **Weizmann Institute of Science** ...
+🔬 I gained practical **lab experience** at **Weizmann Institute of Science** 
 
 💻 I’m transitioning into **Bioinformatics**, combining biology + coding to turn raw data into insights.
 
@@ -47,7 +47,7 @@
 
 ### 📫 Contact
 
-- 💼 LinkedIn: <add-link-here>
+- 💼 LinkedIn: [<add-link-here>](https://www.linkedin.com/in/roni-cohen-1a3264344/)
 - 📧 Email: Roni.cohen059@gmail.com
 
 ---
