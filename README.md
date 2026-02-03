@@ -3,11 +3,16 @@
 
 ---
 
-🧬 I'm a **Life Sciences graduate** from :contentReference[oaicite:0]{index=0} (:contentReference[oaicite:1]{index=1}), with hands-on research and lab experience.  
-🔬 I gained practical laboratory experience at :contentReference[oaicite:2]{index=2}, working with scientific workflows and real experimental data.  
-💻 I’m transitioning into **Bioinformatics**, combining biology + coding to turn raw data into insights.  
-📊 Comfortable working with datasets in **Python** (Pandas), writing queries in **SQL**, and building clean notebooks & scripts.  
-🧠 Tools I enjoy: **PyCharm** and **Jupyter Notebook** for analysis, exploration, and reproducible results.  
+🧬 I'm a **Life Sciences graduate BSc** from the Hebrew University, with hands-on research and lab experience.
+
+🔬 I gained practical **lab experience** at <img src="...png" alt="Weizmann Institute of Science" height="18" style="vertical-align:middle; margin-right:6px;"/> **Weizmann Institute of Science** ...
+
+💻 I’m transitioning into **Bioinformatics**, combining biology + coding to turn raw data into insights.
+
+📊 Comfortable working with datasets in **Python** (Pandas), writing queries in **SQL**, and building clean notebooks & scripts.
+
+🧠 Tools I enjoy: **PyCharm** and **Jupyter Notebook** for analysis, exploration, and reproducible results.
+
 🎯 Current focus: strengthening core bioinformatics skills (data processing, statistics basics, pipelines, and practical projects).
 
 ---
@@ -15,14 +20,13 @@
 ### 🔧 Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
 ---
 
 ### 🧪 Featured Project Ideas (Bioinformatics-ready)
@@ -44,7 +48,7 @@
 ### 📫 Contact
 
 - 💼 LinkedIn: <add-link-here>
-- 📧 Email: <add-email-here>
+- 📧 Email: Roni.cohen059@gmail.com
 
 ---
 
