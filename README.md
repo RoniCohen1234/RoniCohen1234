@@ -47,7 +47,7 @@
 
 ### 📫 Contact
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/roni-cohen-1a3264344/]
+- 💼 LinkedIn: https://www.linkedin.com/in/roni-cohen-1a3264344/
 - 📧 Email: Roni.cohen059@gmail.com
 
 ---
