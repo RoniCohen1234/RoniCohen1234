@@ -30,8 +30,4 @@ Background: Animal Sciences, Genetics, and Systems Physiology.
 - 💼 LinkedIn: https://www.linkedin.com/in/roni-cohen-1a3264344/
 - 📧 Email: Roni.cohen059@gmail.com
 
----
 
-### ✨ Fun Fact
-
-I love the moment when biology stops being “messy” and suddenly becomes a clean dataframe 😄
