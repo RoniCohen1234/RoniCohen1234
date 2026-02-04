@@ -1,19 +1,9 @@
-<h1 align="center">Hi 👋, I'm Roni Cohen</h1>
-<h3 align="center">Life Sciences Graduate | Aspiring Bioinformatics Scientist | Python & SQL | Lab-to-Code</h3>
+<h1 align="center">I’m a Life Sciences graduate (BSc in Animal Sciences, Hebrew University) with a background in experimental lab work. My interest lies in the intersection of biological research and computational tools.</h1>
+<h3 align="center">Life Sciences Graduate (animal sience)| Python | Lab-to-Code</h3>
 
 ---
-
-🧬 I'm a **Life Sciences graduate BSc** from the Hebrew University, with hands-on research and lab experience.
-
-🔬 I gained practical **lab experience** at **Weizmann Institute of Science** 
-
-💻 I’m transitioning into **Bioinformatics**, combining biology + coding to turn raw data into insights.
-
-📊 Comfortable working with datasets in **Python** (Pandas), writing queries in **SQL**, and building clean notebooks & scripts.
-
-🧠 Tools I enjoy: **PyCharm** and **Jupyter Notebook** for analysis, exploration, and reproducible results.
-
-🎯 Current focus: strengthening core bioinformatics skills (data processing, statistics basics, pipelines, and practical projects).
+My background includes hands-on lab experience, both through a research project during my studies and work at the Weizmann Institute of Science. These experiences gave me the opportunity to participate in active research and are what drove me to pursue this field further.
+I am also learning to use Python as a tool for organizing and analyzing experimental data, aiming to make my research workflows more efficient and reproducible.
 
 ---
 
@@ -29,21 +19,13 @@
 </p>
 ---
 
-### 🧪 Featured Project Ideas (Bioinformatics-ready)
+Skills & Experience
+Lab Work: Molecular biology techniques and physiological research (Huji & Weizmann Institute).
 
-- **DNA/Protein sequence toolkit**: FASTA parsing, GC content, k-mers, simple motif search  
-- **Clinical-style dataset analysis**: cleaning + exploration + basic statistics with Pandas  
-- **Mini pipeline**: read data → validate → transform → export results (CSV/JSON)  
-- **SQL practice project**: store experiments + samples + results, then query insights
+Computational: Data organization and visualization using Python (Pandas, Matplotlib).
 
----
+Background: Animal Sciences, Genetics, and Systems Physiology.
 
-### 📌 What I'm looking for
-
-- Entry-level **Bioinformatics / Data** roles  
-- Research groups that love: **curiosity, clean code, and reproducible analysis**
-
----
 
 ### 📫 Contact
 
